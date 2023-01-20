@@ -182,7 +182,7 @@ html , body {
 /* action pages */
 
 .pimg6 {
-  background-image: url('/Webify-main/Action/dark.jpg');
+  background-image: url('dark.jpg');
   min-height: 100%;
  
 }
