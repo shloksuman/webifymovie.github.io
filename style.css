@@ -152,29 +152,29 @@ html , body {
 }
 
 .pimg1 {
-  background-image: url('Horror/horror.jpg');
+  background-image: url('media/horror.jpg');
   min-height: 100%;
  
 }
 
 .pimg2 {
-  background-image: url('Action/actionn.jpg');
+  background-image: url('media/actionn.jpg');
   min-height: 800px;
  
 }
 
 .pimg3 {
-  background-image: url('Thrilling-Mysteries/james.jpg');
+  background-image: url('media/james.jpg');
   min-height: 700px;
  
 }
 .pimg4 {
-  background-image: url('Animation/ice.jpg');
+  background-image: url('media/ice.jpg');
   min-height: 724px;
  
 }
 .pimg5 {
-  background-image: url('Romantic-comedy/rom.jpg');
+  background-image: url('media/rom.jpg');
   min-height: 724px;
  
 }
@@ -182,13 +182,13 @@ html , body {
 /* action pages */
 
 .pimg6 {
-  background-image: url('/Webify-main/Action/dark.jpg');
+  background-image: url('media/dark.jpg');
   min-height: 100%;
  
 }
 
 .pimg7 {
-  background-image: url('Action/actionn.jpg');
+  background-image: url('media/actionn.jpg');
   min-height: 800px;
  
 }
@@ -445,7 +445,7 @@ h3 {
 .star {
   width: 30px;
   height: 30px;
-  background-image: url("star.svg");
+  background-image: url("media/star.svg");
   background-repeat: no-repeat;
   background-size: cover;
   animation: shine 2s ease-in-out infinite;
