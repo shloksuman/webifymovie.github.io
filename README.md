@@ -1,2 +1,2 @@
 # webifymovie.github.io
-Movies catalogue like IMDb built using HTML , CSS
+Movies catalogue built using HTML , CSS
